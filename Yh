@@ -1,4 +1,4 @@
-COREGUI = cloneref(game:GetService("CoreGui")) or game:GetService("CoreGui")
+COREGUI = game:GetService("CoreGui")
 
 
 
